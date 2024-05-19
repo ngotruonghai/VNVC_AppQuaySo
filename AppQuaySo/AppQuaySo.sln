@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppQuaySo", "AppQuaySo\AppQuaySo.csproj", "{6F736FD4-70E0-4D2F-ACB9-557CB6F00152}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{04750BCB-B4B4-4065-9C91-546D781B071C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F736FD4-70E0-4D2F-ACB9-557CB6F00152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F736FD4-70E0-4D2F-ACB9-557CB6F00152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F736FD4-70E0-4D2F-ACB9-557CB6F00152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F736FD4-70E0-4D2F-ACB9-557CB6F00152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04750BCB-B4B4-4065-9C91-546D781B071C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04750BCB-B4B4-4065-9C91-546D781B071C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04750BCB-B4B4-4065-9C91-546D781B071C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04750BCB-B4B4-4065-9C91-546D781B071C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0F7B73B-CE5F-470A-832B-A65AD7DAC2D4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\HaiNT126\OneDrive\Máy tính\AppQuaySo\LoginApp\bin\Debug\net6.0-windows\LoginApp.deps.json
+C:\Users\HaiNT126\OneDrive\Máy tính\AppQuaySo\LoginApp\bin\Debug\net6.0-windows\LoginApp.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\AppQuaySo\LoginApp\bin\Debug\net6.0-windows\LoginApp.pdb
+C:\Users\HaiNT126\OneDrive\Máy tính\AppQuaySo\LoginApp\obj\Debug\net6.0-windows\LoginApp.csproj.AssemblyReference.cache
+C:\Users\HaiNT126\OneDrive\Máy tính\AppQuaySo\LoginApp\obj\Debug\net6.0-windows\LoginApp.frmLoginApp.resources
+C:\Users\HaiNT126\OneDrive\Máy tính\AppQuaySo\LoginApp\obj\Debug\net6.0-windows\LoginApp.csproj.GenerateResource.cache
+C:\Users\HaiNT126\OneDrive\Máy tính\AppQuaySo\LoginApp\obj\Debug\net6.0-windows\LoginApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HaiNT126\OneDrive\Máy tính\AppQuaySo\LoginApp\obj\Debug\net6.0-windows\LoginApp.AssemblyInfoInputs.cache
+C:\Users\HaiNT126\OneDrive\Máy tính\AppQuaySo\LoginApp\obj\Debug\net6.0-windows\LoginApp.AssemblyInfo.cs
+C:\Users\HaiNT126\OneDrive\Máy tính\AppQuaySo\LoginApp\obj\Debug\net6.0-windows\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\HaiNT126\OneDrive\Máy tính\AppQuaySo\LoginApp\obj\Debug\net6.0-windows\LoginApp.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\AppQuaySo\LoginApp\obj\Debug\net6.0-windows\refint\LoginApp.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\AppQuaySo\LoginApp\obj\Debug\net6.0-windows\LoginApp.pdb
+C:\Users\HaiNT126\OneDrive\Máy tính\AppQuaySo\LoginApp\obj\Debug\net6.0-windows\ref\LoginApp.dll
