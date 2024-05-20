@@ -130,7 +130,3 @@ C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\
 C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\Xổ số con gà trống.pdb
 C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\AppQuaySo.genruntimeconfig.cache
 C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\ref\Xổ số con gà trống.dll
-C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Xổ số con gà trống.dll.manifest
-C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Xổ số con gà trống.application
-C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\Xổ số con gà trống.dll.manifest
-C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\Xổ số con gà trống.application
