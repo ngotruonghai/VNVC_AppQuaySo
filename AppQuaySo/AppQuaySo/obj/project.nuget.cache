@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3uzxURLqAiRcwmCZMgB9uADjVjYXpuEN8R2OAZghdUeRuoKdIFdkg360L9DOtnK9MtTCgvZgWLJd9UrB0mMwbw==",
+  "dgSpecHash": "kB9BHAdQvDC48S4aTXvEjlpjRID2oHRvWg7AJSXjKX2PsceC8C3FIaKTnktd+zvy7cBVIVATWMiQky7o8j2AZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\AppQuaySo\\AppQuaySo\\AppQuaySo.csproj",
+  "projectFilePath": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\Git_AppQuaySo\\App\\AppQuaySo\\AppQuaySo\\AppQuaySo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HaiNT126\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\HaiNT126\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

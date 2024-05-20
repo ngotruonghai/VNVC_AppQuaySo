@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\AppQuaySo\\AppQuaySo\\AppQuaySo.csproj": {}
+    "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\Git_AppQuaySo\\App\\AppQuaySo\\AppQuaySo\\AppQuaySo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\AppQuaySo\\AppQuaySo\\AppQuaySo.csproj": {
+    "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\Git_AppQuaySo\\App\\AppQuaySo\\AppQuaySo\\AppQuaySo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\AppQuaySo\\AppQuaySo\\AppQuaySo.csproj",
+        "projectUniqueName": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\Git_AppQuaySo\\App\\AppQuaySo\\AppQuaySo\\AppQuaySo.csproj",
         "projectName": "Xổ số con gà trống",
-        "projectPath": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\AppQuaySo\\AppQuaySo\\AppQuaySo.csproj",
+        "projectPath": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\Git_AppQuaySo\\App\\AppQuaySo\\AppQuaySo\\AppQuaySo.csproj",
         "packagesPath": "C:\\Users\\HaiNT126\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\AppQuaySo\\AppQuaySo\\obj\\",
+        "outputPath": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\Git_AppQuaySo\\App\\AppQuaySo\\AppQuaySo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HaiNT126\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\AppQuaySo\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\AppQuaySo\\Core\\Core.csproj"
+              "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\Git_AppQuaySo\\App\\AppQuaySo\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\Git_AppQuaySo\\App\\AppQuaySo\\Core\\Core.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\AppQuaySo\\Core\\Core.csproj": {
+    "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\Git_AppQuaySo\\App\\AppQuaySo\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\AppQuaySo\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\Git_AppQuaySo\\App\\AppQuaySo\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\AppQuaySo\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\Git_AppQuaySo\\App\\AppQuaySo\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\HaiNT126\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\AppQuaySo\\Core\\obj\\",
+        "outputPath": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\Git_AppQuaySo\\App\\AppQuaySo\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HaiNT126\\AppData\\Roaming\\NuGet\\NuGet.Config",

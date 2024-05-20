@@ -66,3 +66,71 @@ C:\Users\HaiNT126\OneDrive\Máy tính\AppQuaySo\AppQuaySo\bin\Release\net6.0-win
 C:\Users\HaiNT126\OneDrive\Máy tính\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Xổ số con gà trống.application
 C:\Users\HaiNT126\OneDrive\Máy tính\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\Xổ số con gà trống.dll.manifest
 C:\Users\HaiNT126\OneDrive\Máy tính\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\Xổ số con gà trống.application
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Xổ số con gà trống.exe
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Xổ số con gà trống.deps.json
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Xổ số con gà trống.runtimeconfig.json
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Xổ số con gà trống.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Xổ số con gà trống.pdb
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Dapper.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Diagnostics.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\System.Text.Json.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Core.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Core.pdb
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\AppQuaySo.csproj.AssemblyReference.cache
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\AppQuaySo.From.frmAppMail.resources
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\AppQuaySo.From.frmDangKy.resources
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\AppQuaySo.From.frmDanhSachQuaySo.resources
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\AppQuaySo.From.ServerConnect.resources
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\AppQuaySo.csproj.GenerateResource.cache
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\AppQuaySo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\AppQuaySo.AssemblyInfoInputs.cache
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\AppQuaySo.AssemblyInfo.cs
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\AppQuaySo.csproj.CoreCompileInputs.cache
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\AppQuaySo.csproj.CopyComplete
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\Xổ số con gà trống.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\refint\Xổ số con gà trống.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\Xổ số con gà trống.pdb
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\AppQuaySo.genruntimeconfig.cache
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\ref\Xổ số con gà trống.dll
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Xổ số con gà trống.dll.manifest
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\bin\Release\net6.0-windows\Xổ số con gà trống.application
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\Xổ số con gà trống.dll.manifest
+C:\Users\HaiNT126\OneDrive\Máy tính\Git_AppQuaySo\App\AppQuaySo\AppQuaySo\obj\Release\net6.0-windows\Xổ số con gà trống.application

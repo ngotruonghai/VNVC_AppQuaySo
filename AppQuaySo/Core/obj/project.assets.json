@@ -510,11 +510,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\AppQuaySo\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\Git_AppQuaySo\\App\\AppQuaySo\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\AppQuaySo\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\Git_AppQuaySo\\App\\AppQuaySo\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\HaiNT126\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\AppQuaySo\\Core\\obj\\",
+      "outputPath": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\Git_AppQuaySo\\App\\AppQuaySo\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HaiNT126\\AppData\\Roaming\\NuGet\\NuGet.Config",

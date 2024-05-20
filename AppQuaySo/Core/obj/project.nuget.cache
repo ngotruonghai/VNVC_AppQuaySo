@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vlzjUWbpccQ7PGxkxAEQifG2XyCEQMVQZknorlx16dOcimCZ0PKfVjZEe1yRFgFFIS1gn9vdFLApUqwZURxQVg==",
+  "dgSpecHash": "QTfQIrG8aZ7znV5tj6E3ZWKv1GEYQ1T2Nmndbep8g61EEmmdHWUgtsP3+Bhg5CKn6d4XS3cXubgnzVa8FMm4aA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\AppQuaySo\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\HaiNT126\\OneDrive\\Máy tính\\Git_AppQuaySo\\App\\AppQuaySo\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HaiNT126\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\HaiNT126\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
